@@ -25,13 +25,13 @@ The Weather App is a simple web application built with Django that allows users 
 2. Click the "Get Weather" button to view the current temperature, weather description, and an icon representing the conditions.
 
 ---
-Future Enhancements:
+# Future Enhancements:
 
 1. Add user authentication for saving favorite cities.
 2. Implement a search history feature.
 3. Integrate additional weather details like humidity, wind speed, etc.
 
 ---
-License:
+# License:
 
 This project is open-source and available under the MIT License.
