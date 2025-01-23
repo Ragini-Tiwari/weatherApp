@@ -3,6 +3,7 @@
 The Weather App is a simple web application built with Django that allows users to view real-time weather information for any city. It integrates with the OpenWeatherMap API to display temperature, weather conditions, and icons in a clean, interactive interface.
 
 ---
+
 # Features:
 
 1. Fetches real-time weather data using the OpenWeatherMap API.
